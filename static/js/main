@@ -1,0 +1,6 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const appDiv = document.getElementById('app');
+    appDiv.innerHTML = '<p>Loading Montreal artists...</p>';
+
+    // Here you'll add code to fetch and display artists from your API
+});
