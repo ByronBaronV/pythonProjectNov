@@ -22,4 +22,12 @@ I checked in YouTube for more information on these guidelines and registered the
 ## Lesson Learned
 I learned that PEP 8 is the official style guide for Python code. It provides coding conventions to improve the readability and consistency of Python code.
 
-# Issue: Backup Strategies
+# Issue: Creating a new repository on GitHub
+## Problem
+The repository was not found because it was not created, therefore after the creation of the repository, the issue was to connect it with the project in PyCharm.
+## Solution
+After research in the official sites of both PyCharm and GitHub, I followed instructions to create, commit and manage a new repository. 
+## Lesson Learned
+It is very easy to create the repository and add a collaborator. The instructions cannot be clearer.
+
+
